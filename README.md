@@ -1,0 +1,1 @@
+# Named-Entity-Recognition-from-scanned-images
